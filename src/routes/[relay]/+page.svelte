@@ -56,7 +56,7 @@
 </script>
 
 <div class="text-center bg-main p-2">
-  <span class="fs-5"><a href="/" class="text-light">野洲田川定点観測所</a></span
+  <span class="fs-5"><a href="/" class="text-light">野洲田川定点観測所非公式支部</a></span
   >
 </div>
 
@@ -65,7 +65,7 @@
     class="max-width mx-auto d-md-flex justify-content-between align-items-bottom pb-3 container flex-row-reverse"
   >
     <div class="bg-main py-2 px-3 head-sub-title">
-      Nostr 日本語リレーリアルタイム流速検出システム
+      Nostr リレーリアルタイム流速検出システム
     </div>
     <div class="pt-2">{info?.relay_url ?? ""}</div>
   </div>
