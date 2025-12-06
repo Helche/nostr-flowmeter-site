@@ -1,0 +1,7 @@
+name = "nostr-flowmeter"
+
+main = "src/app.d.ts"
+
+compatibility_date = "2025-12-06"
+
+workers_dev = true
